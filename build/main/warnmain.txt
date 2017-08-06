@@ -1,0 +1,16 @@
+missing module named PySide - imported by /home/sroy/.virtualenvs/desktop/lib/python3.5/site-packages/PyInstaller/loader/rthooks/pyi_rth_qt4plugins.py
+missing module named 'org.python' - imported by pickle, /home/sroy/PycharmProjects/cute downloader/main.py, xml.sax
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named _winreg - imported by platform, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named java - imported by platform, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named 'java.lang' - imported by platform, /home/sroy/PycharmProjects/cute downloader/main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named winreg - imported by platform, mimetypes, urllib.request, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named nt - imported by os, ntpath, shutil, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named ce - imported by os, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named msvcrt - imported by subprocess, getpass, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named _winapi - imported by subprocess, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named _dummy_threading - imported by dummy_threading, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named org - imported by copy, /home/sroy/PycharmProjects/cute downloader/main.py
+missing module named _scproxy - imported by urllib.request
